@@ -12,7 +12,10 @@ coding
 ```
 
 ## 二、项目展示
-
+![](https://github.com/yinggege/wc-editor/blob/dev/static/pro-view-img/product-details.png)
+![](https://github.com/yinggege/wc-editor/blob/dev/static/pro-view-img/payment.png)
+![](https://github.com/yinggege/wc-editor/blob/dev/static/pro-view-img/payment-succ.png)
+![](https://github.com/yinggege/wc-editor/blob/dev/static/pro-view-img/myorder.png)
 ## 三、需求分析
 ### 1、基本需求
 *通用功能*
